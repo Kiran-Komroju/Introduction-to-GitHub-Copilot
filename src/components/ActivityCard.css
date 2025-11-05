@@ -1,0 +1,33 @@
+/* ...existing code... */
+.participants-section {
+  margin-top: 1.5em;
+  padding: 1em;
+  background: #f6f8fa;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
+
+.participants-section h3 {
+  margin-top: 0;
+  font-size: 1.1em;
+  color: #2d3748;
+  letter-spacing: 0.5px;
+}
+
+.participants-section ul {
+  list-style-type: disc;
+  padding-left: 1.5em;
+  margin: 0.5em 0 0 0;
+}
+
+.participant-name {
+  color: #3b4252;
+  font-weight: 500;
+  margin-bottom: 0.3em;
+}
+
+.no-participants {
+  color: #a0aec0;
+  font-style: italic;
+}
+/* ...existing code... */
